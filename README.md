@@ -12,6 +12,8 @@ The targeted areas are the 13 NASA selected Candidate Landing Regions (CLR) (htt
 
 3) Create a movie of the illumination maps for a cool representation. (see the uploaded example)
 
-4) Keep the georeferencing metadata for each maps so that they can be further used in ARCGis or any other software using GeoTIFF files. 
+4) Keep the georeferencing metadata for each maps so that they can be further used in ARCGis or any other software using GeoTIFF files.
+
+If you have any questions/remarks you can contact me, I would be happy to answer your questions! 
 
 
