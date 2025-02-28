@@ -8,7 +8,7 @@ The targeted areas are the 13 NASA selected Candidate Landing Regions (CLR) (htt
 
 2) Get the illumination map ('S' for Sun in the settings) OR the combining constraint of the Sun + Earth direct view ('S+E' in the code's settings) at a certain time and a certain place on the Moon's surface and save them under a chosen repository. 
 
-2) Compute the average of the illumination maps over the selected time period. The time periods are selected using the 'Compute_SubsolarLat.py' code that highlights the number of consecutive day per year when the Sun has a low enough latitude in order to illuminate the south polar region. For more information check out: https://www.lpi.usra.edu/lunar/tools/lunarseasoncalc/
+2) Compute the average of the illumination maps over the selected time period. The time periods are selected using the 'Compute_SubsolarLat.py' code that highlights the number of consecutive day per year when the Sun has a low enough latitude in order to illuminate the south polar region. For more information check out: https://www.lpi.usra.edu/lunar/tools/lunarseasoncalc/ To get ephemeris quality datasets, we use NASA/JPL SPICE toolkit. I included the necessary files as well under the spice_data folder. 
 
 3) Create a movie of the illumination maps for a cool representation. (see the uploaded example)
 
